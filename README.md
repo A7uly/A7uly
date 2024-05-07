@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=A7uly&theme=shadow_green&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7uly&layout=compact)
 
 <!--
 **A7uly/A7uly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
